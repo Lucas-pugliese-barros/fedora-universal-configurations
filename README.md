@@ -1,12 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome!!
 
-You can use the [editor on GitHub](https://github.com/Lucas-pugliese-barros/fedora-universal-configurations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I will show some of the scripts and tools that I like to use during my job and my freetime.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Scripts
 
-### Markdown
+I don't like to care about case sensitive when I am navigating via terminal, so I disable auto complete sensitive case executing the following command in the terminal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+
+CMD: echo 'set completion-ignore-case On' >> /etc/inputrc
+
+```
+
+## Tools
+
+1. Broot - https://github.com/Canop/broot
+
+Better way to navigate thrown your directories via terminal
+
+![Broot image](https://dystroy.org/broot/img/20191112-overview.png)
 
 ```markdown
 Syntax highlighted code block
