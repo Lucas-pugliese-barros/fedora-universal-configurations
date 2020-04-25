@@ -14,7 +14,7 @@ CMD: echo 'set completion-ignore-case On' >> /etc/inputrc
 
 ## Tools
 
-1. Broot - https://github.com/Canop/broot
+* Broot - https://github.com/Canop/broot
 
 Better way to navigate thrown your directories via terminal
 
